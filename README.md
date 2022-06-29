@@ -29,10 +29,7 @@ Adam Junio Selva
 Wonosobo, Indonesia
 PKN STAN D-III KBN 2019
 
-## Developer Journal
+Farhan Surya Aditya
+Probolinggo, Indonesia
+PKN STAN D-III PAJAK 2019
 
-16/6/21 -   First Flight, create laravel react app
-            <!-- TO-DO:add db user, confirm, and reset -->
-20/6/21 -   Add db + seed faker, Cek NPM, Change Input Register Login neccesary 
-            <!-- TO-DO:add set email confirm, reset pass -->
-21/6/21 -   Add set email confirm, reset pass
